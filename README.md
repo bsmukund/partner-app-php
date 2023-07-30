@@ -1,2 +1,2 @@
 # partner-app-php
-A php implementation of the SAML flow
+A PHP implementation of the SAML flow
